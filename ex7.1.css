@@ -1,0 +1,20 @@
+.rat{
+    width:200px;
+    border-radius: 5px;
+    margin-left:400px;
+}
+
+.rat2 {
+    width:200px;
+    height:200px;
+    border-image:fill;
+    margin-top: 200px;
+    
+}
+
+.rat3{
+    width:200px;
+    height:200px;
+    border-radius: 500px;
+
+}
